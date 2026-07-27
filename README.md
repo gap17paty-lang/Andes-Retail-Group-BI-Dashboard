@@ -46,7 +46,7 @@ La solución visual fue desarrollada en **Tableau**, aplicando las mejores prác
 * **Detección de Oportunidades:** El diseño del dashboard facilitó a la dirección la identificación de categorías de productos suboptimizadas (alto volumen pero bajo margen), permitiendo ajustar la estrategia de precios.
 * **Agilidad Ejecutiva:** Reducción del tiempo dedicado a la interpretación de datos técnicos, permitiendo a los tomadores de decisiones identificar desviaciones comerciales en menos de 5 segundos gracias al uso correcto del color y la jerarquía visual.
   
-# **Recomendación**
+### **Recomendación**
   
 * **Programa de Retención Premium:** Se sugiere implementar una estrategia de beneficios exclusivos para recuperar a los clientes de alto valor en las categorías de Deportes y Electrónica.
 * **CO-Plan de Expansión Colombia:** Auditar la operación en Colombia para entender por qué no estamos llegando a los niveles de Perú/Chile.
