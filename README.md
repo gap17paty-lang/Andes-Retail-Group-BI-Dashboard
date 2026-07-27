@@ -1,11 +1,22 @@
 # Andes-Retail-Group-BI-Dashboard
+
 Dashboard ejecutivo e interactivo en Tableau para el análisis de rendimiento comercial y rentabilidad regional (Perú, Chile y Colombia) utilizando la metodología SCQA
+
 # Andes Retail Group: Dashboard de Desempeño Comercial Regional
 
 ## 📌 1. Introducción y Contexto del Negocio
 Andes Retail Group es un conglomerado de comercio minorista con operaciones en expansión en **Perú, Chile y Colombia**. En un mercado tan dinámico, los directores regionales y de categoría se enfrentaban al reto de consolidar datos transaccionales dispersos para evaluar la salud financiera del negocio, identificar patrones temporales de consumo y detectar caídas en la rentabilidad por línea de productos.
 
 Este proyecto consistió en el diseño e implementación de una solución de Business Intelligence (BI) centralizada que transforma millones de registros de ventas en un sistema visual interactivo de alto impacto, permitiendo monitorear el desempeño comercial de los años 2024 y 2025 de forma ágil y eficiente.
+
+---
+## 🎯 2. Objetivo del Proyecto
+
+Diseñar e implementar un dashboard interactivo que centralice los datos comerciales de los años 2024–2025, proporcionando a la dirección ejecutiva una herramienta visual para el análisis del desempeño del negocio y la toma de decisiones estratégicas.
+
+---
+## 📂 3. Dataset del Proyecto
+El archivo Andes_Retail_Group_2024_2025.xlsx
 
 ---
 
